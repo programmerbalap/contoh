@@ -4,3 +4,4 @@
 3. Membuat tutorial Vue
 4. Membuat tutorial Java
 5. Membuat tutorial Go lang
+6. Membuat tutorial javascript dasar
