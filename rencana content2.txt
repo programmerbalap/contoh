@@ -1,0 +1,3 @@
+##Rencana Content 2 
+1. Membuat tutorial bootstrap5
+2. Membuat tutorial Python
