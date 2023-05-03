@@ -3,5 +3,7 @@
 2. Membuat tutorial Laravel
 3. Membuat tutorial Vue
 4. Membuat tutorial Java
-5. Membuat tutorial login react
-6. Membuat tutorial Game
+5. Membuat tutorial Go lang
+6. Membuat tutorial javascript dasar
+7. Membuat tutorial node js
+
